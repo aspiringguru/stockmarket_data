@@ -1,0 +1,3 @@
+
+https://api.tiingo.com/documentation/general/overview
+https://api.tiingo.com/documentation/general/connecting
